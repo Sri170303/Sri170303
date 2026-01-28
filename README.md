@@ -73,7 +73,7 @@ Full-stack platform for booking doctor appointments with secure payments.
 
 ## 📫 Connect With Me
 
-- 📧 Email: **sridarsansah@gmail.com**  
+- 📧 Email: **sridarsansah@gmail.com**  or **sridarsansah5907@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/sri-darsan-sah](https://www.linkedin.com/in/sri-darsan-sah/)  
 - 🧑‍💻 GitHub: [github.com/Sri170303](https://github.com/Sri170303)
 
