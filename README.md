@@ -16,7 +16,7 @@ I’m currently deepening my skills in **web development and machine learning**,
 
 ## 🛠️ Tech Stack
 
-**Programming Languages:**  
+**Languages:**  
 JavaScript (ES6+), Python, C, C++, SQL
 
 **Frontend:**  
