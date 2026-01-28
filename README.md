@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi 👋, I'm Sri Darsan Sah
 
-<!--
-**Sri170303/Sri170303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Computer Science undergraduate at **NIT Silchar**  
+💻 Aspiring Software Engineer | Backend & Cloud Enthusiast  
+🌍 Open to global opportunities and relocation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I’m a passionate software developer with hands-on experience in building scalable, production-ready web and cloud-based applications. I enjoy solving real-world problems using clean design, efficient data structures, and modern SDLC practices.
+
+I’m currently deepening my skills in **web development and machine learning**, with a focus on building practical, real-world applications. I’ve worked on backend and full-stack projects involving RESTful APIs, databases, authentication, CI/CD workflows, and AI integrations, and I’m always eager to learn new technologies and contribute to impactful engineering teams.
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming Languages:**  
+JavaScript (ES6+), Python, C, C++, SQL
+
+**Frontend:**  
+HTML, CSS, React.js, Tailwind CSS
+
+**Backend:**  
+Node.js, Express.js, REST APIs
+
+**Databases:**  
+MongoDB, PostgreSQL (Neon), MySQL
+
+**Cloud & DevOps:**  
+AWS (EC2, S3 basics), Azure fundamentals, CI/CD, Vercel
+
+**Tools & Platforms:**  
+Git, GitHub, Postman, VS Code
+
+**AI & APIs:**  
+Gemini, Groq, Clipdrop
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AutoBlogr – AI-Powered Blogging Platform  
+AI-driven blogging platform with admin dashboard, content generation, and CDN-based image delivery.  
+**Tech:** MERN Stack, Gemini AI, ImageKit, Git
+
+### 🔹 Quirk.AI – AI SaaS Application  
+Cloud-based AI SaaS platform with secure authentication, subscriptions, and multiple AI-powered features.  
+**Tech:** React, Node.js, Neon PostgreSQL, Clerk, Groq, Clipdrop
+
+### 🔹 BookMedico – Doctor Appointment Booking System  
+Full-stack platform for booking doctor appointments with secure payments.  
+**Tech:** MERN Stack, Razorpay, MongoDB
+
+---
+
+## 📚 Core CS Knowledge
+- Data Structures & Algorithms  
+- Operating Systems  
+- Database Management Systems  
+- Object-Oriented Programming  
+- Software Engineering  
+- Basics of AI & Machine Learning  
+
+---
+## 🌱 What I’m Currently Learning
+- Advanced web development concepts and system design  
+- Machine learning fundamentals and applied ML projects  
+- Cloud-native application development and scalability  
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **sridarsansah@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/sri-darsan-sah](https://www.linkedin.com/in/sri-darsan-sah/)  
+- 🧑‍💻 GitHub: [github.com/Sri170303](https://github.com/Sri170303)
+
+---
+
+⭐ *Feel free to explore my repositories and connect — I’m always open to collaboration and learning!*  
