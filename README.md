@@ -20,7 +20,7 @@ I’m currently deepening my skills in **web development and machine learning**,
 JavaScript (ES6+), Python, C, C++, SQL
 
 **Frontend:**  
-HTML, CSS, React.js, Tailwind CSS
+HTML, CSS, React.js, FastAPI, Tailwind CSS
 
 **Backend:**  
 Node.js, Express.js, REST APIs
@@ -28,18 +28,22 @@ Node.js, Express.js, REST APIs
 **Databases:**  
 MongoDB, PostgreSQL (Neon), MySQL
 
+**Machine Learning:**  
+Pandas, NumPy, Scikit-learn, Data Preprocessing, Model Traning
+
 **Cloud & DevOps:**  
-AWS (EC2, S3 basics), Azure fundamentals, CI/CD, Vercel
+AWS (EC2, S3 basics), Azure fundamentals
 
 **Tools & Platforms:**  
 Git, GitHub, Postman, VS Code
 
-**AI & APIs:**  
-Gemini, Groq, Clipdrop
-
 ---
 
 ## 📌 Featured Projects
+
+### 🔹 Network Security Threat Detection System 
+End-to-end machine learning pipeline for detecting malicious network activity with data validation, model training  
+**Tech:** Python, Scikit-learn, FastAPI, Pandas, NumPy, Git
 
 ### 🔹 AutoBlogr – AI-Powered Blogging Platform  
 AI-driven blogging platform with admin dashboard, content generation, and CDN-based image delivery.  
