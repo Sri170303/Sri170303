@@ -71,7 +71,7 @@ Full-stack platform for booking doctor appointments with secure payments.
 ## 🌱 What I’m Currently Learning
 - Advanced web development concepts and system design  
 - Machine learning fundamentals and applied ML projects  
-- Cloud-native application development and scalability  
+- Cloud computing  
 
 ---
 
