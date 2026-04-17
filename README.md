@@ -1,7 +1,7 @@
 # Hi 👋, I'm Sri Darsan Sah
 
-🎓 Final-year Computer Science undergraduate at **NIT Silchar**  
-💻 Aspiring Software Engineer 
+🎓 Final-year Computer Science undergraduate at **NIT Silchar**  \
+💻 Aspiring Software Engineer \
 🌍 Open to global opportunities and relocation
 
 ---
